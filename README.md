@@ -6,7 +6,7 @@ Site vitrine pour l'atelier Terra.
 ## 🌐 URL du projet  
 
 - **Site public** :  
-  [🔗 https://perenisation.nicolasmdc.eu/](https://perenisation.nicolasmdc.eu/)  
+  [🔗 https://perennisation.nicolasmdc.eu/](https://perennisation.nicolasmdc.eu/)  
 
 ---
 
